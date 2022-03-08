@@ -6,3 +6,4 @@
 - After 13 rounds one the players wins the game.
 
 - Purpose of the project is improve myself in object oriented programming.
+- Run src > MyCardGame to play
